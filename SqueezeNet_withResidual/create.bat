@@ -1,0 +1,1 @@
+D:\caffe_new\caffe\examples\cifar10\create_cifar10.sh

@@ -1,0 +1,1 @@
+D:\caffe_new\caffe\data\cifar10\get_cifar10.sh
